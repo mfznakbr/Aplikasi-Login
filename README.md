@@ -81,6 +81,6 @@ Model diekspor ke 3 format:
 
 ---
 
-> Proyek ini dibuat oleh **Muhammad Fauzani Akbar** sebagai bagian dari project submission untuk course pengembangan machine learning. 
+> Proyek ini dibuat oleh **Muhammad Fauzani Akbar** sebagai bagian dari project submission untuk course pengembangan machine learning dicoding academy. 
 
 
